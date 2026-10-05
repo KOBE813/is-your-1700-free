@@ -2,6 +2,6 @@
 
 Federal Scholarship Tax Credit (IRC §25F) eligibility checker.
 
-**Not tax advice.** Informational only. Verify with the IRS and a tax professional.
+**Not tax advice.** Informational only — verify with the IRS and a qualified tax professional.
 
-Live site: https://kobe813.github.io/is-your-1700-free/
+Live: https://kobe813.github.io/is-your-1700-free/
